@@ -1,5 +1,4 @@
 FROM maven:3-openjdk-17 as builder
-LABEL authors="brito"
 
 WORKDIR /build
 
